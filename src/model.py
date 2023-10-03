@@ -40,7 +40,7 @@ class MLPLM(nn.Module):
         batch_size, context_size = x.size()
 
         assert context_size == self.configuration.context_size
-      
+
         x = self.embedding(x)
         x = x.view(-1, context_size * self.configuration.embedding_dimension) # Concatenate.
         x = self.mlp(x)
