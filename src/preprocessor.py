@@ -1,5 +1,8 @@
 from dataclasses import dataclass
+
+import torch
 from nltk.util import ngrams
+
 from src.configuration import MLPLMConfiguration
 
 
