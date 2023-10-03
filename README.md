@@ -47,7 +47,7 @@ MLPLM(
 
 MLPLM-V3.
 
-| Batch # | NLL loss (Train) | NLL loss (Validation) |
+| Batch # | NLL Loss (Train) | NLL Loss (Validation) |
 |---------|------------------|-----------------------|
 | 0       | 8.94             | 8.93                  |
 | 1000    | 5.71             | 5.66                  |
