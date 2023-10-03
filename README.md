@@ -19,7 +19,7 @@ Prompt: `<bos>When Alice saw Eve she said`
 
 Prompt: `<bos>One day, the sun`
 
-> Once day, the sun was in the sky. It was a big, beautiful sky. The sun had many colors of the animals in the garden. The animals was so happy and thanked the rabbit for his own new place.
+> One day, the sun was in the sky. It was a big, beautiful sky. The sun had many colors of the animals in the garden. The animals was so happy and thanked the rabbit for his own new place.
 
 
 ## Architecture
