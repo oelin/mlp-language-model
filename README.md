@@ -1,6 +1,6 @@
 # MLP Language Model
 
-An 2M parameter neural language model trained on the TinyStories corpus.
+A 2M parameter neural language model trained on the TinyStories corpus.
 
 
 ## Completions
