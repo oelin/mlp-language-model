@@ -13,17 +13,13 @@ Prompt: `<bos>`
 
 > Once there was a little boy named Timmy. Timmy loved to play outside with his friends. One day, he went to the park to play. Jack was playing in the park with his friends. He saw a big red car and his toy car. Timmy was happy to have the toy car.
 
-Prompt: `<bos>One day, the sun`
-
-> Once day, the sun was in the sky. It was a big, beautiful sky. The sun had many colors of the animals in the garden. The animals was so happy and thanked the rabbit for his own new place.
-
 Prompt: `<bos>When Alice saw Eve she said`
 
 > When Alice saw Eve she said it was time to go home. She said goodbye to her mom and dad.
 
-Prompt: `<bos>Timmy was sad because`
+Prompt: `<bos>One day, the sun`
 
-> Timmy was sad because he could not have to travel in a park to play. He saw a boy and wanted to join him.
+> Once day, the sun was in the sky. It was a big, beautiful sky. The sun had many colors of the animals in the garden. The animals was so happy and thanked the rabbit for his own new place.
 
 
 ## Architecture
