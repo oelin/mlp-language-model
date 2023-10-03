@@ -1,4 +1,6 @@
+from dataclasses import dataclass
 from nltk.util import ngrams
+from src.configuration import configuration
 
 
 @dataclass
